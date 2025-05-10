@@ -1,4 +1,4 @@
 [core]
-    remote = dvcstore
-['remote "dvcstore"']
+    remote = myremote
+['remote "myremote"']
     url = s3://dax-mini-bucket
